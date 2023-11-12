@@ -1,0 +1,7 @@
+pyniryo2
+opencv-python
+pillow
+keyboard
+easygui
+pytransform3d
+ikpy
