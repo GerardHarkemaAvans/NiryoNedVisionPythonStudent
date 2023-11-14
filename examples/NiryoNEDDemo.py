@@ -50,6 +50,8 @@ def main():
     print("Move NiryoNED to home position")
     robot.arm.move_pose(home_pose)
 
+    robot.end()
+
     print("Ready")
 
 if __name__ == "__main__":
